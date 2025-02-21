@@ -12,7 +12,7 @@ Alien Invasion is a simple 2D shooting game built using Python and Pygame. The p
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/alien-invasion.git
+   git clone https://github.com/Ashish1455/alien-invasion.git
    cd alien-invasion
    ```  
 2. Install dependencies:  
